@@ -1,0 +1,20 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "EasyCrypto",
+  "outputfilename": "EasyCrypto",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm run build",
+  "frontend:dev:watcher": "pnpm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "Neptune Tan",
+    "email": "32198721+c3b2a7@users.noreply.github.com"
+  },
+  "info": {
+    "companyName": "c3b2a Ltd.",
+    "productName": "EasyCrypto",
+    "productVersion": "1.0.0",
+    "copyright": "Copyright © 2023",
+    "comments": "Built using Wails (https://wails.io)"
+  }
+}
