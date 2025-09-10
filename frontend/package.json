@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.4.1",
-    "element-plus": "^2.4.2",
+    "element-plus": "^2.11.0",
     "prettier": "^3.1.0",
     "unplugin-auto-import": "^0.17.1",
     "unplugin-vue-components": "^0.25.2",
